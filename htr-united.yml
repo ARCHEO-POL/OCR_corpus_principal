@@ -1,0 +1,185 @@
+authors:
+- name: Nicolas
+  roles:
+  - transcriber
+  - aligner
+  - quality-control
+  - digitization
+  - support
+  surname: Champeaux
+- name: Alyzé
+  roles:
+  - transcriber
+  - aligner
+  - quality-control
+  - digitization
+  - support
+  surname: Bianco
+- name: Lorenzo
+  roles:
+  - transcriber
+  - aligner
+  - quality-control
+  - digitization
+  - support
+  surname: Paoli
+automatically-aligned: false
+characters:
+  members:
+  - e
+  - u
+  - i
+  - a
+  - n
+  - r
+  - t
+  - o
+  - l
+  - ſ
+  - s
+  - d
+  - c
+  - p
+  - m
+  - ','
+  - q
+  - ’
+  - y
+  - f
+  - .
+  - '&'
+  - g
+  - b
+  - ¬
+  - v
+  - h
+  - ́
+  - x
+  - ̃
+  - ̀
+  - R
+  - ':'
+  - E
+  - I
+  - C
+  - A
+  - z
+  - D
+  - P
+  - L
+  - S
+  - M
+  - '1'
+  - '-'
+  - O
+  - T
+  - F
+  - V
+  - G
+  - '2'
+  - "'"
+  - N
+  - Q
+  - (
+  - )
+  - ̧
+  - '3'
+  - '4'
+  - '?'
+  - B
+  - H
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - œ
+  - ̈
+  - X
+  - j
+  - ;
+  - æ
+  - '!'
+  - Z
+  - ̂
+  - ̨
+  - Y
+  - U
+  - ¶
+  - '*'
+  - J
+  - K
+  - ß
+  - ι
+  - k
+  - ο
+  - ꝰ
+  - Æ
+  - ς
+  - 
+  - ᑕ
+  - η
+  - ⁹
+  - ᗅ
+  - ·
+  - γ
+  - υ
+  - α
+  - φ
+  - σ
+  - τ
+  - ɇ
+  - ͂
+  - ̓
+  - /
+  - ω
+  - ψ
+  - ζ
+  - χ
+  - θ
+  - ρ
+  - δ
+  - π
+  - ε
+  - ᗞ
+  - ⟦
+  - „
+  mode: NFD
+description: >-
+  Ce dépôt regroupe les données du corpus principal du projet de recherche en
+  Histoire des idées politiques nommé ARCHEO-POL et soutenu par le Fonds
+  National Suisse. 
+format: Alto-XML
+hands:
+  count: unknown
+  precision: exact
+institutions: []
+language:
+- fra
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: Archéo-pol - La bibliothèque des monarchomaques
+project-website: https://www.unige.ch/ihr/fr/accueil/archeo-pol/
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: mainly-typed
+time:
+  notAfter: '1600'
+  notBefore: '1550'
+title: 'Archeo-pol : Corpus principal'
+url: https://github.com/ARCHEO-POL/dataset_corpus_principal
+volume:
+- count: 1704440
+  metric: characters
+- count: 1337
+  metric: files
+- count: 47948
+  metric: lines
+- count: 800
+  metric: pages
+- count: 7573
+  metric: regions
