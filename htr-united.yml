@@ -29,98 +29,122 @@ characters:
   - e
   - u
   - i
-  - t
-  - n
   - a
+  - n
   - r
+  - t
   - o
   - l
   - ſ
   - s
-  - c
   - d
+  - c
   - p
   - m
+  - ','
   - q
   - ’
-  - ','
-  - .
-  - f
-  - '&'
   - y
+  - f
+  - .
   - g
+  - '&'
+  - b
+  - ¬
   - v
   - h
-  - b
-  - ̃
-  - ¬
   - ́
-  - x
   - ̀
-  - I
+  - ̃
+  - x
+  - R
   - ':'
+  - E
+  - I
   - C
+  - A
   - D
   - L
   - z
-  - E
-  - A
+  - P
   - S
   - M
-  - R
-  - P
-  - X
   - '1'
-  - O
-  - F
-  - '2'
-  - )
-  - (
-  - T
-  - œ
-  - ̧
-  - Q
-  - N
-  - ̈
   - '-'
-  - '?'
+  - O
+  - T
+  - F
   - V
-  - B
-  - '3'
-  - '5'
-  - '9'
   - G
-  - '4'
-  - '8'
-  - '7'
-  - H
-  - '0'
+  - '2'
   - "'"
-  - æ
+  - N
+  - Q
+  - (
+  - )
+  - ̧
+  - '3'
+  - '4'
+  - '?'
+  - B
+  - '5'
+  - H
   - '6'
-  - ;
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - œ
+  - ̈
+  - X
   - j
-  - ̂
-  - ̨
-  - '*'
-  - Y
-  - ο
-  - Z
-  - J
-  - ι
+  - ;
+  - æ
   - '!'
-  - ꝰ
-  - ς
-  - Æ
-  - ß
-  - υ
+  - ̂
+  - Z
+  - ̨
+  - Y
+  - ¶
+  - '*'
   - U
-  - η
-  - ͂
+  - J
+  - K
+  - ß
+  - ι
   - k
-  - α
-  - ̓
+  - ο
+  - ꝰ
+  - Æ
+  - ς
   - 
+  - ᑕ
+  - η
+  - ⁹
+  - ᗅ
+  - ·
+  - γ
+  - υ
+  - α
+  - φ
+  - σ
+  - τ
+  - ɇ
+  - ͂
+  - ̓
+  - /
+  - ω
+  - ψ
+  - ζ
+  - χ
+  - θ
+  - ρ
+  - δ
+  - π
+  - ε
+  - ᗞ
+  - ⟦
+  - „
   mode: NFD
 description: >-
   Ce dépôt regroupe les données du corpus principal du projet de recherche en
@@ -149,13 +173,13 @@ time:
 title: 'Archeo-pol : Corpus principal'
 url: https://github.com/ARCHEO-POL/dataset_corpus_principal
 volume:
-- count: 280447
+- count: 1632066
   metric: characters
-- count: 147
+- count: 1286
   metric: files
-- count: 7119
+- count: 46327
   metric: lines
 - count: 800
   metric: pages
-- count: 1053
+- count: 7502
   metric: regions
