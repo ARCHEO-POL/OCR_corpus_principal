@@ -16,7 +16,7 @@ This repo contains the transcription of 16th c. French prints. It contains a dir
 | Cosmopolite,  Eusèbe Philadelphe | [_Le reveille-matin des François et de leurs voisins_](https://www.google.it/books/edition/Le_Reveille_matin_des_Fran%C3%A7ois_et_de_le/GBRr1rSDsQMC?hl=it&gbpv=1) | 1574 | Lyon | Le Preux | N. Champeaux | A.Bianco N.Champeaux |
 | Iunius Brutus, Stephanus | [*De La Puissance Legitime du Prince*](https://doi.org/10.3931/e-rara-6435) | 1581     | Geneva   | s.n. | L. Paoli     | L.Paoli  |
 | de Coras, Jean | [_Question Politique_](https://books.google.ch/books?id=7cLTKl76iJsC&pg=PA355) | 1570     | London   | Barthélemy Berton | A. Bianco     | A. Bianco      |
-| Hotman François | [*La Francogallia*](https://www.digitale-sammlungen.de/en/view/bsb10177492?page=4,5) | 1573     | Munich| Jacob Stoer | L.Paoli     | L.Paoli  |
+| Hotman François | [*La Gaule Françoise*](https://www.digitale-sammlungen.de/en/view/bsb10177492?page=4,5) | 1573     | Munich| Jacob Stoer | L.Paoli     | L.Paoli  |
 | s.n. | [Le Politique. *Dialogue traittant de la puissance, authorité, & du devoir des Princese*](http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ22450210X) | 1576     | s.n | Heinrich Wolf | A.Bianco et N.Champeaux     | A.Bianco  |
 | s.n. | [_Discours politiques des diverses puissances establies de Dieu au monde_](https://doi.org/10.3931/e-rara-29284) | 1578     | Lausanne | Heinrich Wolf | N. Champeaux | N.Champeaux  |
 
